@@ -1,0 +1,17 @@
+{
+    "name": "laraplus/php-ecommerce",
+    "authors": [
+        {
+            "name": "sirvan monfared",
+            "email": "dev@laraplus.ir"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "Http\\": "Http/"
+        }
+    }
+}
